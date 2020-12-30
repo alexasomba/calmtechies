@@ -7,6 +7,7 @@ description: >-
   that will empower content editors to construct their own webpages.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://calmtechies.com"
+destination: docs
 
 # Build settings
 defaults:
